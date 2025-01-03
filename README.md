@@ -5,7 +5,6 @@
 ---
 
 ### 🌟 **About Me**
-- 🎓 Final year **B.E. Computer Science and Engineering** student at Sona College of Technology, Salem.
 - 💻 Aspiring **Frontend Developer** with a keen interest in **UI/UX** and crafting seamless user experiences.
 - 🌱 Currently improving my skills in **React** and exploring advanced **JavaScript** frameworks.
 
