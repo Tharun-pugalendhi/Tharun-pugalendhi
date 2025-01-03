@@ -5,7 +5,7 @@
 ---
 
 ### 🌟 **About Me**
-- 💻 Aspiring **Frontend Developer** with a keen interest in **UI/UX** and crafting seamless user experiences.
+- 💻 Aspiring **Full-Stack Developer** with a passion for building complete, dynamic web applications from frontend to backend.
 - 🌱 Currently improving my skills in **React** and exploring advanced **JavaScript** frameworks.
 
 ---
